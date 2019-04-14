@@ -1,7 +1,9 @@
 # Document
 
 - 前提准备：[第一次使用必看](https://github.com/aJantes/Initialize-the-board/blob/master/readme.md)
-- 硬件介绍：[BPI:bit(ESP32)](https://github.com/aJantes/introduce-bpi-bit/blob/master/readme.md)
+- 硬件介绍：
+1. [BPI:bit(ESP32)](https://github.com/aJantes/introduce-bpi-bit/blob/master/readme.md)
+2. 直插式led灯
 - 编程工具：[pycharm](https://github.com/aJantes/use-pycharm/blob/master/readme.md)
 
 
@@ -20,7 +22,7 @@ IO 在计算机中指Input/Output,也就是输入和输出，简称 IO 口
 - 今天要实现的功能为，触摸板子的引脚并让它做出对应的反应
 
 - 准备的代码如下：
-[shy.py](https://github.com/aJantes/to-contro-IO/blob/master/shy.py)
+[shy.py](https://github.com/aJantes/to-control-IO/blob/master/shy.py)
 
 - 运行效果如下图：
 
@@ -35,7 +37,7 @@ IO 在计算机中指Input/Output,也就是输入和输出，简称 IO 口
 
  ![leds](album/leds.jpg)
 
-- 准备的代码如下：[blink.py](https://github.com/aJantes/to-contro-IO/blob/master/blink.py)
+- 准备的代码如下：[blink.py](https://github.com/aJantes/to-control-IO/blob/master/blink.py)
 
 
 - 运行效果如下图：
