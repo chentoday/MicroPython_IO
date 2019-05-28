@@ -28,8 +28,8 @@ IO 口 硬件相关函数 [pin 模块](https://github.com/aJantes/MicroPython-IO
 
 
 ## ** IO 口例子**
-1. [shy.py](https://github.com/aJantes/MircoPython-IO/blob/master/shy.py)   -害羞的板子
-2. [blink.py](https://github.com/aJantes/MircoPython-IO/blob/master/blink.py) -led 闪烁
+1. [shy.py](https://github.com/aJantes/MircoPython-IO/blob/master/example/shy.py)   -害羞的板子
+2. [blink.py](https://github.com/aJantes/MircoPython-IO/blob/master/example/blink.py) -led 闪烁
 
 
 

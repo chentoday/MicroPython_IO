@@ -28,8 +28,8 @@ For example：`pin2.write_digital(1)` Pin Output High Level in Label 2; `pin2.wr
 
 
 ## ** Example **
-1. [shy.py](https://github.com/aJantes/MircoPython-IO/blob/master/shy.py)   -Shy board
-2. [blink.py](https://github.com/aJantes/MircoPython-IO/blob/master/blink.py) -LED twinkle
+1. [shy.py](https://github.com/aJantes/MircoPython-IO/blob/master/example/shy.py)   -Shy board
+2. [blink.py](https://github.com/aJantes/MircoPython-IO/blob/master/example/blink.py) -LED twinkle
 
 
 
