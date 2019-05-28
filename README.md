@@ -26,8 +26,8 @@ IO 口 硬件相关函数 [pin 模块](https://github.com/aJantes/MircoPython-IO
 
 例如：`pin2.write_digital(1)` 在 2 号标签的引脚输出高电平; `pin2.write_digital(0)` 在 2 号标签引脚输出低电平。
 
-
-## ** IO 口例子**
+---
+## IO 口例子
 1. [shy.py](https://github.com/aJantes/MircoPython-IO/blob/master/example/shy.py)   -害羞的板子
 2. [blink.py](https://github.com/aJantes/MircoPython-IO/blob/master/example/blink.py) -led 闪烁
 

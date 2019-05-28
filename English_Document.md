@@ -26,8 +26,8 @@ Determine whether the pin on label 1 is touched or not, and execute statement 1 
 
 For example：`pin2.write_digital(1)` Pin Output High Level in Label 2; `pin2.write_digital(0)` Output low level at label pin 2.
 
-
-## ** Example **
+---
+## Example
 1. [shy.py](https://github.com/aJantes/MircoPython-IO/blob/master/example/shy.py)   -Shy board
 2. [blink.py](https://github.com/aJantes/MircoPython-IO/blob/master/example/blink.py) -LED twinkle
 
