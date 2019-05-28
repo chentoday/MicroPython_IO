@@ -11,7 +11,7 @@ IO 在计算机中指Input/Output,也就是输入和输出，简称 IO 口
 
 ## **控制IO口的输入与输出**
 
-IO 口 硬件相关函数 [pin 模块](https://github.com/aJantes/MicroPython-IO/blob/master/source/pins.py)。在调用相关函数前，需要先导入对应的库。
+IO 口 硬件相关函数 [pin 模块](https://github.com/aJantes/MircoPython-IO/blob/master/source/pins.py)。在调用相关函数前，需要先导入对应的库。
 ## 主要函数
 1. `pin1.is_touched()`:
 

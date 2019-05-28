@@ -11,7 +11,7 @@ IO in computer refers to Input/Output, that is, input and output, referred to as
 
 ## **Controlling the Input and Output of IO Port**
 
-Hardware correlation function of IO port [pin Modular](https://github.com/aJantes/MicroPython-IO/blob/master/source/pins.py).Before calling related functions, you need to import the corresponding libraries.
+Hardware correlation function of IO port [pin Modular](https://github.com/aJantes/MircoPython-IO/blob/master/source/pins.py).Before calling related functions, you need to import the corresponding libraries.
 ## Main functions
 1. `pin1.is_touched()`:
 
