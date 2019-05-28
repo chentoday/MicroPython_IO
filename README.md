@@ -1,8 +1,8 @@
 # MircoPython - IO
-#### 📖 [English document](https://github.com/aJantes/rolling_text/blob/master/english_document.md)
+#### 📖 [English document](https://github.com/aJantes/MircoPython-IO/blob/master/English_Document.md)
 ![](album/bit.gif)
 > 硬件介绍：
-1. [BPI:bit(ESP32)](https://github.com/aJantes/introduce-bpi-bit/blob/master/readme.md)
+1. [BPI:bit(ESP32)](https://github.com/aJantes/introduce-bpi-bit/blob/master/README.md)
 2. 直插式led
 
 # 控制IO
@@ -23,12 +23,13 @@ IO 口 硬件相关函数 [pin 模块](https://github.com/aJantes/MicroPython-IO
 判断 1 号标签上的引脚是否被触摸，如被触摸则执行语句1
 
 2. `pin2.write_digital()`:
+
 例如：`pin2.write_digital(1)` 在 2 号标签的引脚输出高电平; `pin2.write_digital(0)` 在 2 号标签引脚输出低电平。
 
 
 ## ** IO 口例子**
 1. [shy.py](https://github.com/aJantes/MircoPython-IO/blob/master/shy.py)   -害羞的板子
-2. [blink.py](https://github.com/aJantes/MircoPython-IO/blob/master/blink.py) -led 闪朔
+2. [blink.py](https://github.com/aJantes/MircoPython-IO/blob/master/blink.py) -led 闪烁
 
 
 
